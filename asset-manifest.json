@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/tvast/static/css/main.3470c779.css",
+    "main.js": "/tvast/static/js/main.470b2636.js",
+    "static/media/fa-solid-900.svg": "/tvast/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/fa-brands-400.svg": "/tvast/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/fa-solid-900.eot": "/tvast/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/tvast/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/fa-regular-400.svg": "/tvast/static/media/fa-regular-400.4689f52cc96215721344.svg",
+    "static/media/fa-brands-400.eot": "/tvast/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/tvast/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/fa-solid-900.woff": "/tvast/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/overlay.png": "/tvast/static/media/overlay.0acb42cfd1e5cef58746.png",
+    "static/media/fa-brands-400.woff": "/tvast/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/Gilroy-SemiBold.eot": "/tvast/static/media/Gilroy-SemiBold.8134b9ab378c54626928.eot",
+    "static/media/Gilroy-SemiBold.ttf": "/tvast/static/media/Gilroy-SemiBold.6780292641f883b3dad3.ttf",
+    "static/media/fa-solid-900.woff2": "/tvast/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/tvast/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/Mobile.png": "/tvast/static/media/Mobile.05699b208dd6bb16fd8d.png",
+    "static/media/Gilroy-SemiBold.woff": "/tvast/static/media/Gilroy-SemiBold.e38937dbf8202c144802.woff",
+    "static/media/fa-regular-400.eot": "/tvast/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/tvast/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/fa-regular-400.woff": "/tvast/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/fa-regular-400.woff2": "/tvast/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "index.html": "/tvast/index.html",
+    "main.3470c779.css.map": "/tvast/static/css/main.3470c779.css.map",
+    "main.470b2636.js.map": "/tvast/static/js/main.470b2636.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3470c779.css",
+    "static/js/main.470b2636.js"
+  ]
+}
